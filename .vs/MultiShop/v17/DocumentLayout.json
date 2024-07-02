@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\MultiShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4163268-93DE-48C4-87A5-78EE00DF3A8C}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\merve\\desktop\\.net e\u011Fitimi\\multishop\\services\\catalog\\multishop.catalog\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4163268-93DE-48C4-87A5-78EE00DF3A8C}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4163268-93DE-48C4-87A5-78EE00DF3A8C}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\merve\\desktop\\.net e\u011Fitimi\\multishop\\services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4163268-93DE-48C4-87A5-78EE00DF3A8C}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductServices\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T14:13:21.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Program.cs",
+              "ToolTip": "C:\\Users\\merve\\Desktop\\.Net E\u011Fitimi\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T11:57:19.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
