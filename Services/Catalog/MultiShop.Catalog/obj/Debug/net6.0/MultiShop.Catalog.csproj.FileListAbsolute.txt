@@ -45,3 +45,4 @@ C:\Users\merve\Desktop\.Net Eğitimi\MultiShop\Services\Catalog\MultiShop.Catalo
 C:\Users\merve\Desktop\.Net Eğitimi\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.pdb
 C:\Users\merve\Desktop\.Net Eğitimi\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.genruntimeconfig.cache
 C:\Users\merve\Desktop\.Net Eğitimi\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\ref\MultiShop.Catalog.dll
+C:\Users\merve\Desktop\.Net Eğitimi\MultiShop\Services\Catalog\MultiShop.Catalog\obj\Debug\net6.0\MultiShop.Catalog.sourcelink.json

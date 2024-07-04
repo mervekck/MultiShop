@@ -11,7 +11,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddScoped<ICategoryService, CategoryService>(); //Scop uygulamada bir method çaðrýldýðýnda nesne örneði oluþturalucak
-builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IProductService, ProductService>(); //Scoped her istek için bir kez oluþturulur ve istek süresince ayný nesne kullanýlýr
 builder.Services.AddScoped<IProductDetailService, ProductDetailService>();
 builder.Services.AddScoped<IProductImageService, ProductImageService>();
 
