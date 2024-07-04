@@ -6,7 +6,7 @@
 - **Discount Microservice** : Etkili indirim yönetimi için Dapper ve MsSql kullanılarak uygulanmıştır.
                               (Dapper:Doğrudan SQL sorguları yapıldığı için daha hızlıdır.)
 - **Discount Microservice** : MsSql'in Docker üzerinden ayağa kaldırıyoruz çünkü Localde bağımlılık ortadan kaldırmayı amaçlıyoruz.
-                              (CQRS:command(ekleme,silme,güncelleme) ve queries(listeleme, id'ye göre getirme)(Get ön eki ile kullanılır))
+                              (CQRS:*Command*(ekleme,silme,güncelleme) ve *Queries*(listeleme, id'ye göre getirme)(Get ön eki ile kullanılır))
  
 ## Yapılacak İşler
 
