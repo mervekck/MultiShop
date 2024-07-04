@@ -1,7 +1,7 @@
 ## Yapılan İşler
 
-- #Catalog Microservice# : Ürünler ve kataloglarını verimli bir şekilde yönetmek için MongoDB ile yönetildi ve AutoMapper kullanıldı.
-- Discount Microservice : Etkili indirim yönetimi için Dapper ve MsSql kullanılarak uygulanmıştır.
+- **Catalog Microservice** : Ürünler ve kataloglarını verimli bir şekilde yönetmek için MongoDB ile yönetildi ve AutoMapper kullanıldı.
+- **Discount Microservice** : Etkili indirim yönetimi için Dapper ve MsSql kullanılarak uygulanmıştır.
 
 ## Yapılacak İşler
 
