@@ -528,6 +528,7 @@
         "dependencies": {
           "MediatR": "12.3.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
+          "Microsoft.Extensions.Configuration.Abstractions": "6.0.0",
           "MultiShop.Order.Domain": "1.0.0"
         },
         "runtime": {
